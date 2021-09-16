@@ -78,9 +78,6 @@ def check_plate(curr_plate, curr_vin, plate_name):
         'accept-language': 'en-US,en;q=0.9'
     }
 
-    #7JLX813
-    #270
-
     data = {
       'imageSelected': 'none',
       'vehicleType': 'AUTO',
